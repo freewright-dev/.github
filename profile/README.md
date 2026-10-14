@@ -8,7 +8,7 @@ We build open-source software together, mostly in Rust. Each project has its own
 
 | | Project | What it is |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/pierruno-labs/.github/main/profile/browsecraft-icon.png" width="40" alt=""> | **[BrowseCraft](https://github.com/pierruno-labs/browsecraft)** | A small web browser with its own HTML/CSS rendering engine: no WebView, no JavaScript |
+| <img src="https://raw.githubusercontent.com/pierruno-labs/.github/main/profile/prowl-icon.png" width="40" alt=""> | **[Prowl](https://github.com/pierruno-labs/prowl)** | A small web browser with its own HTML/CSS rendering engine: no WebView, no JavaScript |
 | <img src="https://raw.githubusercontent.com/pierruno-labs/Pounce/main/assets/icon.png" width="40" alt=""> | **[Pounce](https://github.com/pierruno-labs/Pounce)** | Instant file search for Windows: an Everything-style desktop app with NTFS MFT indexing |
 
 ## Get involved
