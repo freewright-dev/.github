@@ -1,4 +1,6 @@
-# Pierruno Labs
+<p align="center"><img src="https://raw.githubusercontent.com/pierruno-labs/.github/main/profile/pierruno-labs-logo.png" alt="Pierruno Labs" width="140"></p>
+
+<h1 align="center">Pierruno Labs</h1>
 
 We build open-source software together, mostly in Rust. Each project has its own repository in this organization.
 
