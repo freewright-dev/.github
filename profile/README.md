@@ -2,6 +2,8 @@
 
 <h1 align="center">Freewright</h1>
 
+<p align="center"><a href="https://discord.gg/SAy3t4BvJj"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white" alt="Join the Freewright Discord"></a></p>
+
 We build open-source software together, mostly in Rust. Each project has its own repository in this organization.
 
 ## Projects
@@ -14,6 +16,7 @@ We build open-source software together, mostly in Rust. Each project has its own
 
 ## Get involved
 
+- Join the [Freewright Discord](https://discord.gg/SAy3t4BvJj) to ask questions, share ideas and talk with the other contributors
 - Browse the open issues of any project, especially ones labelled `good first issue`
 - Each project's README (and `CONTRIBUTING.md`, where there is one) explains how to set it up and send changes
 - Every change goes through a pull request and gets one review before it merges
