@@ -10,7 +10,6 @@ We build open-source software together, mostly in Rust. Each project has its own
 
 | | Project | What it is |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/freewright-dev/BrowseCraft/main/assets/logo.png" width="40" alt=""> | **[BrowseCraft](https://github.com/freewright-dev/BrowseCraft)** | A small web browser with tabs, a built-in ad blocker, and its own HTML/CSS rendering engine |
 | <img src="https://raw.githubusercontent.com/freewright-dev/FileCraft/main/assets/logos/icon.png" width="40" alt=""> | **[FileCraft](https://github.com/freewright-dev/FileCraft)** | Instant file search for Windows: an Everything-style desktop app with NTFS MFT indexing |
 | <img src="https://raw.githubusercontent.com/freewright-dev/ConvertCraft/master/assets/logos/logo.png" width="40" alt=""> | **[ConvertCraft](https://github.com/freewright-dev/ConvertCraft)** | A local desktop file converter for images, data, audio, and video: batch conversion without uploading anything |
 | <img src="https://raw.githubusercontent.com/freewright-dev/speakcraft/main/assets/speakcraft-logo.png" width="40" alt=""> | **[SpeakCraft](https://github.com/freewright-dev/speakcraft)** | Hotkey dictation for Windows: hold a shortcut, speak, and the text is inserted into whatever app you are using |
